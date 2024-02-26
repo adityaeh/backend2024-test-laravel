@@ -2,17 +2,18 @@
 
 Jawaban pilihan ganda:
 1. b
-2. c
-3. b
+2. c (D)
+3. b (C)
 4. b
-5. e
+5. e (B)
 6. e
 7. b
 8. a
 9. c
-10. d
+10. d (E)
 11. e
 12. d
 13. c
-14. c
-15. b
+14. c (D)
+15. b (A)
+ 
